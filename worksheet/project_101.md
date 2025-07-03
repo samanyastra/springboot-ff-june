@@ -1,6 +1,6 @@
 # Project101 - Student performance caluclator
 
-## Description - An application to handle scores, performance and grade of users
+## Description - Application to handle scores, performance and grade of students
 
 - Application should be able to preload basic Student data as per below json data
 ```
@@ -66,16 +66,16 @@
         - Grade 'F' - for rest of them
 
 ### Create a function to show 
-    - Percentage of each student(20)
-    - Average of each class(20)
-    - Overall school percentage Average(25)
+    - Percentage of each student(10)
+    - Average of each class(10)
+    - Overall school percentage Average(20)
     - Subject wise average score(30)
-    - List all users with below details
+    - List all users with below details(30)
         - Name
         - class
         - Batch
         - Scores
-            - Array of 
+            - Array of objects containing
                 - Subject 
                 - Score
                 - Grade
